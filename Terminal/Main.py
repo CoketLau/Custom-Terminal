@@ -1,4 +1,4 @@
-from Comandos import Whatsapp, Google, Gpt, Translate, Reload
+from Comands import Whatsapp, Google, Gpt, Translate, Reload
 import colorama
 import os
 import asyncio
